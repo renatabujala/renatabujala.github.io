@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Aperture Template
+title: Renata Bujała
 url: "https://cosmic-hippopotamus.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -16,7 +16,6 @@ author:
 social:
   name: Aperture Template
   links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
 
 # -----
 # Build
